@@ -8,7 +8,7 @@ Generate **unique, procedurally-generated wallpapers** using Perlin noise, with 
 
 ## 🌟 About Me and This Project
 
-I’ve always been fascinated by **topographic wallpapers**—their intricate lines and organic patterns feel both artistic and scientific. As I’m working on an **upcoming game**, I wanted to design an algorithm that could generate similar procedural art for in-game environments. This project is my way of experimenting with Perlin noise and creating something beautiful along the way.
+I've always loved **topographic wallpapers** as the lines are so hypnotizing and so cxool that I've always had a thing for those types of wallpapers. As I’m working on an **upcoming game**, I wanted to design an algorithm that could generate similar procedural art for in-game environments. This project is my way of experimenting with Perlin noise and creating something beautiful along the way.
 
 ---
 
@@ -20,7 +20,7 @@ Here’s an example of what Perlin noise looks like:
 
 ![Perlin Noise Example](./assets/perlin-noise-example.png)
 
-In this project, Perlin noise is used to generate a base pattern, which is then enhanced with contour lines to create stunning wallpapers. Each wallpaper is uniquely tied to your system's CPU utilization, ensuring no two designs are ever the same.
+In this project, Perlin noise is used to generate a base pattern, which is then enhanced with contour lines to create stunning wallpapers. Each wallpaper is uniquely tied to your system's CPU utilization, ensuring no two designs are ever the same (so cool right? I find it *"unique"* and interesting).
 
 ---
 
