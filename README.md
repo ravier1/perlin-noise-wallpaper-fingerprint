@@ -8,7 +8,7 @@ Generate **unique, procedurally-generated wallpapers** using Perlin noise, with 
 
 ## 🌟 About Me and This Project
 
-I've always loved **topographic wallpapers** as the lines are so hypnotizing and so cxool that I've always had a thing for those types of wallpapers. As I’m working on an **upcoming game**, I wanted to design an algorithm that could generate similar procedural art for in-game environments. This project is my way of experimenting with Perlin noise and creating something beautiful along the way.
+I've always loved **topographic wallpapers** as the lines are so hypnotizing and so cool that I've always had a thing for those types of wallpapers. As I’m working on an **upcoming game**, I wanted to design an algorithm that could generate similar procedural art for in-game environments. This project is my way of experimenting with Perlin noise and creating something beautiful along the way.
 
 ---
 
